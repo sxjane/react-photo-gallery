@@ -5,7 +5,7 @@
   "main": "dist/react-photo-gallery.umd.js",
   "module": "dist/react-photo-gallery.esm.js",
   "files": [
-    "/dist",
+    "dist",
     "index.d.ts"
   ],
   "author": "Sandra Gonzales",
